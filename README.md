@@ -8,9 +8,9 @@ Jupyter Notebook qui retrace notre avancement du projet, notre compréhension du
 
 ## Auteurs
 
-Laure Nannini <laure.nannini@etu.umontpellier.fr>
-Elian Strozyk <elian.strozyk@etu.umontpellier.fr>
-Tahirou Cissokho <tahirou.cissokho@etu.umontpellier.fr>
+Laure Nannini <laure.nannini@etu.umontpellier.fr><br />
+Elian Strozyk <elian.strozyk@etu.umontpellier.fr><br />
+Tahirou Cissokho <tahirou.cissokho@etu.umontpellier.fr><br />
 
 ## Remerciements
 
